@@ -1,22 +1,3 @@
-@::RANDOM-dewdedwed08f-d896-4653-b84f-24fc22f8d250
-@set masver=2.7
-@setlocal DisableDelayedExpansion
-@echo off
-
-
-
-::  For command line switches, check mass grave[.]dev/command_line_switches
-::  If you want to better understand script, read from MAS separate files version. 
-
-
-
-::============================================================================
-::
-::   Homepage: mass grave[.]dev
-::      Email: mas.help@outlook.com
-::
-::============================================================================
-
 
 
 ::========================================================================================================================================
