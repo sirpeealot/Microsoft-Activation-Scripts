@@ -1,14 +1,3 @@
-@::::rem139c618c-392a-4799-b8af-c240b06c013a
-@set masver=2.7
-@setlocal DisableDelayedExpansion
-@echo off
-
-
-
-::  For command line switches, check mass grave[.]dev/command_line_switches
-::  If you want to better understand script, read from MAS separate files version. 
-
-
 
 ::============================================================================
 ::
