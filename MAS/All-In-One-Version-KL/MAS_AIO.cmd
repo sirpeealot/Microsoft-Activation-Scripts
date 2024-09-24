@@ -1,4 +1,4 @@
-@::RANDOM-03938c58-ded9-4e95-b879-cb81e3e77c93
+@:::03938c58-ded9-4e95-b879-cb81e3e77c93
 @set masver=2.7
 @setlocal DisableDelayedExpansion
 @echo off
